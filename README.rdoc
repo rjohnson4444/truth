@@ -3,5 +3,3 @@
 This is a social network that is different from the rest. It's about being real and being true to not only yourself, but all of the friends and family you interact with on the site. 
 
 Hope you enjoy it.
-
-I edited this file
