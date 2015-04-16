@@ -6,9 +6,9 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-User.create(username: "rjohnson4444", email: "rjohnson4444@live.com", password: "love", password_confirmation: "love")
-User.create(username: "rjohnson4445", email: "rjohnson4445@live.com", password: "love", password_confirmation: "love")
-User.create(username: "rjohnson4446", email: "rjohnson4446@live.com", password: "love", password_confirmation: "love")
-User.create(username: "rjohnson4447", email: "rjohnson4447@live.com", password: "love", password_confirmation: "love")
-User.create(username: "rjohnson4448", email: "rjohnson4448@live.com", password: "love", password_confirmation: "love")
+User.create(username: "rjohnson4444", email: "rjohnson4444@live.com", password: "love4444", password_confirmation: "love4444")
+User.create(username: "rjohnson4445", email: "rjohnson4445@live.com", password: "love4444", password_confirmation: "love4444")
+User.create(username: "rjohnson4446", email: "rjohnson4446@live.com", password: "love4444", password_confirmation: "love4444")
+User.create(username: "rjohnson4447", email: "rjohnson4447@live.com", password: "love4444", password_confirmation: "love4444")
+User.create(username: "rjohnson4448", email: "rjohnson4448@live.com", password: "love4444", password_confirmation: "love4444")
 p "Test users created"
