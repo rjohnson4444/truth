@@ -11,3 +11,16 @@ body {
 	z-index: 1;
 	width: 200px;
 }
+
+.front-title {
+	margin-top: 120px;
+}
+
+.landing { 
+  background: image-url("Truth-background.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
